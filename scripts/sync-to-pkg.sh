@@ -257,7 +257,7 @@ if git diff --cached --quiet; then
   echo "→ no changes to commit; pkg already at $PRIVATE_NAME @ $PRIVATE_SHA"
   exit 0
 fi
-git -c user.email=support@meshpilot.app -c user.name="Glitch Executor Labs" \
+git -c user.email=help.nuraveda@gmail.com -c user.name="Glitch Executor Labs" \
   commit -m "sync: engine update from $PRIVATE_NAME @ $PRIVATE_SHA"
 git push -u origin main
 
