@@ -283,7 +283,7 @@ Body text (if present) shown as indented sub-bullets.
     Snapshot of production state, everything shipped this session, open
     items, known issues, env var diff, and resume instructions. Start
     here when picking up the project again.
-- **00:27 UTC** — chore: update license contact to support@glitchexecutor.com (`64fc8fc`) — 2 files
+- **00:27 UTC** — chore: update license contact to help.nuraveda@gmail.com (`64fc8fc`) — 2 files
     Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
 - **00:25 UTC** — chore: relicense from MIT to BSL 1.1 (`91bd8d0`) — 2 files
     License converts to Apache 2.0 on 2030-04-18. Production use permitted

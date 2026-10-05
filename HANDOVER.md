@@ -284,7 +284,7 @@ All git commits on `main` branch; last commit `59d0286` pushed. TTS revert to WS
 
 ## Contact
 
-Commercial licensing / enterprise deployment: **support@meshpilot.app**
+Commercial licensing / enterprise deployment: **help.nuraveda@gmail.com**
 
 ---
 
